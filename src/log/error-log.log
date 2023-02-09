@@ -1,0 +1,6 @@
+{"level":"error","message":{"error_message":"authService is not defined"},"timestamp":"2022-09-21T06:22:28.037Z"}
+{"level":"error","message":{"error_message":"authService.login is not a function"},"timestamp":"2022-09-21T06:25:20.631Z"}
+{"level":"error","message":{"error_message":"user.generateAuthToken is not a function"},"timestamp":"2022-09-21T06:25:51.484Z"}
+{"level":"error","message":{"error_message":"userData is not defined"},"timestamp":"2022-09-21T06:28:56.322Z"}
+{"level":"error","message":{"error_message":"data and hash arguments required"},"timestamp":"2023-01-26T14:24:58.359Z"}
+{"level":"error","message":{"error_message":"data and hash arguments required"},"timestamp":"2023-01-26T14:25:18.456Z"}
